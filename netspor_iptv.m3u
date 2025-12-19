@@ -1,5 +1,5 @@
 #EXTM3U
-# Son Guncelleme: 2025-12-19 22:11:05
+# Son Guncelleme: 2025-12-19 22:40:38
 #EXTINF:-1 group-title="CANLI TV KANALLARI", Bein Sports 1
 https://andro.6441255.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 group-title="CANLI TV KANALLARI", Bein Sports 2
@@ -110,12 +110,6 @@ https://andro.6441255.xyz/checklist/androstreamliveexn6.m3u8
 https://andro.6441255.xyz/checklist/androstreamliveexn7.m3u8
 #EXTINF:-1 group-title="CANLI TV KANALLARI", Exxen Sports 8
 https://andro.6441255.xyz/checklist/androstreamliveexn8.m3u8
-#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Valencia - MallorcaCANLI (23:00 | | | İspanya La Liga)
-https://andro.6441255.xyz/checklist/androstreamlivets2.m3u8
-#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Lens - Feignies AulnoyeCANLI (23:00 | | | Fransa Kupasi)
-https://andro.6441255.xyz/checklist/androstreamlivebs5.m3u8
-#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Swansea - WrexhamCANLI (23:00 | | | İngiltere Championship)
-https://andro.6441255.xyz/checklist/androstreamliveexn.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", Konyaspor - Kayserispor (14:30 | | | Trendyol Süper Lig)
 https://andro.6441255.xyz/checklist/androstreamlivebs2.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", Eyüpspor - Fenerbahçe (17:00 | | | Trendyol Süper Lig)
@@ -222,30 +216,20 @@ https://andro.6441255.xyz/checklist/androstreamlivebs4.m3u8
 https://andro.6441255.xyz/checklist/androstreamlivech17956388.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Central TT - San Juan Jabloteh F.C.CANLI (01:00 | | | Trinidad & Tobago Pro Lea...)
 https://andro.6441255.xyz/checklist/androstreamlivech17956401.m3u8
-#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Vendée Les Herbiers - Angers SCOCANLI (22:45 | | | Coupe de France)
-https://andro.6441255.xyz/checklist/androstreamlivech17955823.m3u8
-#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Estudiantes de Mérida - Athletic Bilbao IICANLI (23:15 | | | Spain. Primera Division R...)
-https://andro.6441255.xyz/checklist/androstreamlivech17955983.m3u8
-#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] G.D. Estoril Praia - S.C. BragaCANLI (23:15 | | | Portugal. Primeira Liga)
-https://andro.6441255.xyz/checklist/androstreamlivech17955957.m3u8
-#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Surgut - AdlerCANLI (00:10 | | | IPBL. Pro Division)
-https://andro.6441255.xyz/checklist/androstreamlivech17956229.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Meksika (TBL) - Peru (TBL)CANLI (00:59 | | | Table Basketball League)
 https://andro.6441255.xyz/checklist/androstreamlivech17956354.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] İtalya (TBL) - Malaysia (TBL)CANLI (00:59 | | | Table Basketball League)
 https://andro.6441255.xyz/checklist/androstreamlivech17956360.m3u8
-#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] FC Barcelona Bàsquet - Saski BaskoniaCANLI (22:30 | | | Euroleague)
-https://andro.6441255.xyz/checklist/androstreamlivech17955705.m3u8
-#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] JA Vichy - Denain ASC VoltaireCANLI (22:30 | | | France. Elite 2)
-https://andro.6441255.xyz/checklist/androstreamlivech17955832.m3u8
-#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] CAB Madeira - PortimonenseCANLI (23:15 | | | Portekiz Şampiyonası. Pro Lig)
-https://andro.6441255.xyz/checklist/androstreamlivech17956092.m3u8
+#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Humboldt U21 - La Union U21CANLI (01:00 | | | Şili. Liga Desarrollo U21)
+https://andro.6441255.xyz/checklist/androstreamlivech17956442.m3u8
+#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Clube 5Basket U23 - Porto U23CANLI (01:00 | | | Portekiz Şampiyonası. 2.Bölüm)
+https://andro.6441255.xyz/checklist/androstreamlivech17956429.m3u8
+#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Dordt University (Bayanlar) - MidAmerica Nazarene (Bayanlar)CANLI (01:00 | | | NAIA. Women)
+https://andro.6441255.xyz/checklist/androstreamlivech17956514.m3u8
+#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Surgut - KurganCANLI (01:10 | | | IPBL. Pro Division)
+https://andro.6441255.xyz/checklist/androstreamlivech17956462.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Raptors 905 - San Diego ClippersCANLI (23:30 | | | NBA. G-League)
 https://andro.6441255.xyz/checklist/androstreamlivech17956317.m3u8
-#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Pasu de Arcus - Sporting U23CANLI (23:30 | | | Portugal. Division 1)
-https://andro.6441255.xyz/checklist/androstreamlivech17956088.m3u8
-#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Alessandro-Damiano Ventre - Niels HoffmannCANLI (00:00 | | | UTR Pro Tennis Series. Ne...)
-https://andro.6441255.xyz/checklist/androstreamlivech17956200.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Kelly Keller - Olive MaunupauCANLI (00:00 | | | UTR Pro Tennis Series. Ne...)
 https://andro.6441255.xyz/checklist/androstreamlivech17956226.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Mitchell Sheldon - Frederic SchlossmannCANLI (00:15 | | | UTR Pro Tennis Series. Ne...)
@@ -256,22 +240,30 @@ https://andro.6441255.xyz/checklist/androstreamlivech17956248.m3u8
 https://andro.6441255.xyz/checklist/androstreamlivech17956309.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Tatiana Brazovskaya - Daria NesytykhCANLI (00:50 | | | ATT. Minsk. Bayanlar)
 https://andro.6441255.xyz/checklist/androstreamlivech17956366.m3u8
-#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Diana Loseva - Kira BussCANLI (22:59 | | | ATT. Tolyatti. Bayanlar)
+#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Victor Miller - Dmitry ZakharovCANLI (01:15 | | | ATT. Moskova)
+https://andro.6441255.xyz/checklist/androstreamlivech17956451.m3u8
+#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Diana Loseva - Kira BussCANLI (22:59 | | | ATT. Tolyatti. Women)
 https://andro.6441255.xyz/checklist/androstreamlivech17955886.m3u8
-#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Sergey Berezhnov - Arkady EpifanovCANLI (23:03 | | | ATT. Moskova)
-https://andro.6441255.xyz/checklist/androstreamlivech17955933.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Matilde Magrini - Hudson HawkinsCANLI (23:30 | | | UTR Pro Tennis Series. Ne...)
 https://andro.6441255.xyz/checklist/androstreamlivech17956108.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Ural Masters - Ural SnipersCANLI (00:00 | | | Ural League 2)
 https://andro.6441255.xyz/checklist/androstreamlivech17956151.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Mackenzie EC (Bayanlar) - SESC Flamengo (Bayanlar)CANLI (00:30 | | | Brazil. SuperLiga. Women)
 https://andro.6441255.xyz/checklist/androstreamlivech17956271.m3u8
-#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Mısır - JaponyaCANLI (00:50 | | | SpikeVolleyball. International Cup)
-https://andro.6441255.xyz/checklist/androstreamlivech17956363.m3u8
+#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Sorocaba (Bayanlar) - Minas (Bayanlar)CANLI (00:30 | | | Brazil. SuperLiga. Women)
+https://andro.6441255.xyz/checklist/androstreamlivech17956270.m3u8
+#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Slovenya - BrezilyaCANLI (01:05 | | | VCA. Master Volleyball League)
+https://andro.6441255.xyz/checklist/androstreamlivech17956422.m3u8
+#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Araguari Volei EVA - Sesc AECGVCANLI (01:15 | | | Brazil. SuperLiga B)
+https://andro.6441255.xyz/checklist/androstreamlivech17956511.m3u8
+#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Londrina (Bayanlar) - Abel Moda (Bayanlar)CANLI (01:30 | | | Brazil. SuperLiga B. Wome...)
+https://andro.6441255.xyz/checklist/androstreamlivech17956512.m3u8
+#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Fransa - KübaCANLI (01:40 | | | SpikeVolleyball. International Cup)
+https://andro.6441255.xyz/checklist/androstreamlivech17956504.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Slovakya - JaponyaCANLI (21:50 | | | CBV 23. Duo Masters)
 https://andro.6441255.xyz/checklist/androstreamlivech17956346.m3u8
-#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] İtalya - JaponyaCANLI (23:00 | | | VCA. Master Volleyball League)
-https://andro.6441255.xyz/checklist/androstreamlivech17955908.m3u8
+#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Mozambik - KübaCANLI (22:10 | | | CBV 23. Duo Masters)
+https://andro.6441255.xyz/checklist/androstreamlivech17956423.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Japonya - İtalyaCANLI (23:35 | | | VCA. Master Volleyball League)
 https://andro.6441255.xyz/checklist/androstreamlivech17956070.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Türkiye (Bayanlar) - Sırbistan (Bayanlar)CANLI (23:55 | | | VCA. Master Volleyball League. Bayanlar)
