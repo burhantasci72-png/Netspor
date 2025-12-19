@@ -1,0 +1,32 @@
+name: IPTV Listesini Guncelle
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # Her 30 dakikada bir çalıştır
+  workflow_dispatch:      # Manuel çalıştırma butonu ekler
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Depoyu cek
+        uses: actions/checkout@v3
+
+      - name: Python Kur
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Kutuphaneleri Yukle
+        run: pip install requests beautifulsoup4
+
+      - name: Botu Calistir
+        run: python main.py
+
+      - name: Degisiklikleri Kaydet ve Pushla
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add netspor_iptv.m3u
+          git commit -m "Otomatik Guncelleme: $(date)" || exit 0
+          git push
