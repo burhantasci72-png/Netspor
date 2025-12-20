@@ -1,5 +1,5 @@
 #EXTM3U
-# Son Guncelleme: 2025-12-20 15:09:30
+# Son Guncelleme: 2025-12-20 15:37:00
 #EXTINF:-1 group-title="CANLI TV KANALLARI", Bein Sports 1
 https://andro.6441255.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 group-title="CANLI TV KANALLARI", Bein Sports 2
@@ -114,10 +114,6 @@ https://andro.6441255.xyz/checklist/androstreamliveexn8.m3u8
 https://andro.6441255.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", Beşiktaş - Ç.Rizespor (20:00 | | | Trendyol Süper Lig)
 https://andro.6441255.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Real Oviedo - Celta VigoCANLI (16:00 | | | İspanya La Liga)
-https://andro.6441255.xyz/checklist/androstreamlivess1.m3u8
-#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Boluspor - PendiksporCANLI (16:00 | | | Trendyol 1. Lig)
-https://andro.6441255.xyz/checklist/androstreamlivetrts.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Kirklareli Bld. - Burhaniye Bld.CANLI (16:30 | | | Kadinlar Basketbol 1. Ligi)
 https://andro.6441255.xyz/checklist/androstreamliveht.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Fenerbahçe Medicana - Bursa BBCANLI (17:00 | | | TVF Efeler Ligi)
@@ -148,7 +144,7 @@ https://andro.6441255.xyz/checklist/androstreamlivebs4.m3u8
 https://andro.6441255.xyz/checklist/androstreamlivebs3.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Wolverhampton - BrentfordCANLI (18:00 | | | İngiltere Premier Lig)
 https://andro.6441255.xyz/checklist/androstreamlivebsm2.m3u8
-#EXTINF:-1 group-title="GUNUN MACLARI", Levante - Real Sociedad (18:15 | | | İspanya La Liga)
+#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Levante - Real SociedadCANLI (18:15 | | | İspanya La Liga)
 https://andro.6441255.xyz/checklist/androstreamlivess1.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", Manisa FK - Keçiörengücü (19:00 | | | Trendyol 1. Lig)
 https://andro.6441255.xyz/checklist/androstreamlivetrts.m3u8
@@ -276,18 +272,12 @@ https://andro.6441255.xyz/checklist/androstreamlivets1.m3u8
 https://andro.6441255.xyz/checklist/androstreamlivess1.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", Lyon - Saint Cyr Collonges (23:00 | | | Fransa Kupasi)
 https://andro.6441255.xyz/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Boluspor - PendiksporCANLI (16:00 | | | Turkey. TFF 1. Lig)
-https://andro.6441255.xyz/checklist/androstreamlivech17960655.m3u8
-#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Fasil Kenema - Negele ArsiCANLI (16:00 | | | Etiyopya Şampiyonası. Premier Lig)
-https://andro.6441255.xyz/checklist/androstreamlivech17960593.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Chaves - PortimonenseCANLI (17:00 | | | Portugal. Segunda Liga)
 https://andro.6441255.xyz/checklist/androstreamlivech17960921.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Osijek - Slaven BelupoCANLI (17:00 | | | Croatia. HNL)
 https://andro.6441255.xyz/checklist/androstreamlivech17960969.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Shabab Al-Sahel - Al AhedCANLI (17:00 | | | Lebanon. Premier League)
 https://andro.6441255.xyz/checklist/androstreamlivech17960985.m3u8
-#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Eyüpspor - Fenerbahçe S.K.CANLI (17:00 | | | Turkey. SuperLiga)
-https://andro.6441255.xyz/checklist/androstreamlivech17960959.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] 1. Koln - Union BerlinCANLI (17:30 | | | Germany. Bundesliga)
 https://andro.6441255.xyz/checklist/androstreamlivech17961164.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Paksi SE - Nyíregyháza Spartacus FCCANLI (17:30 | | | Hungary. NB I)
@@ -320,6 +310,8 @@ https://andro.6441255.xyz/checklist/androstreamlivech17961266.m3u8
 https://andro.6441255.xyz/checklist/androstreamlivech17961394.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Airdrie United - Queen's Park F.C.CANLI (18:00 | | | Scotland. Championship)
 https://andro.6441255.xyz/checklist/androstreamlivech17961424.m3u8
+#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Foolad Khuzestan FutbolClub - Chador MaluCANLI (18:00 | | | İran Kupası)
+https://andro.6441255.xyz/checklist/androstreamlivech17961574.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Ross County - Arbroath F.C.CANLI (18:00 | | | Scotland. Championship)
 https://andro.6441255.xyz/checklist/androstreamlivech17961421.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] St. Johnstone F.C. - Greenock MortonCANLI (18:00 | | | Scotland. Championship)
@@ -330,6 +322,12 @@ https://andro.6441255.xyz/checklist/androstreamlivech17961422.m3u8
 https://andro.6441255.xyz/checklist/androstreamlivech17961381.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Wolverhampton Wanderers - BrentfordCANLI (18:00 | | | England. Premier League)
 https://andro.6441255.xyz/checklist/androstreamlivech17961466.m3u8
+#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Brighton & Hove Albion - SunderlandCANLI (18:00 | | | England. Premier League)
+https://andro.6441255.xyz/checklist/androstreamlivech17961496.m3u8
+#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Manchester City - West Ham UnitedCANLI (18:00 | | | England. Premier League)
+https://andro.6441255.xyz/checklist/androstreamlivech17961504.m3u8
+#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Bournemouth - BurnleyCANLI (18:00 | | | England. Premier League)
+https://andro.6441255.xyz/checklist/androstreamlivech17961524.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Queens Park Rangers - Leicester CityCANLI (18:00 | | | England. Championship)
 https://andro.6441255.xyz/checklist/androstreamlivech17961354.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Ipswich Town - Sheffield WednesdayCANLI (18:00 | | | England. Championship)
@@ -354,18 +352,38 @@ https://andro.6441255.xyz/checklist/androstreamlivech17961356.m3u8
 https://andro.6441255.xyz/checklist/androstreamlivech17961385.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Sheffield United - Birmingham CityCANLI (18:00 | | | England. Championship)
 https://andro.6441255.xyz/checklist/androstreamlivech17961346.m3u8
+#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Hawassa City - Ethiopian InsuranceCANLI (18:00 | | | Etiyopya Şampiyonası. Premier Lig)
+https://andro.6441255.xyz/checklist/androstreamlivech17961636.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Dunfermline Athletic - Ayr UnitedCANLI (18:00 | | | Scotland. Championship)
 https://andro.6441255.xyz/checklist/androstreamlivech17961404.m3u8
-#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] SD Huesca - Racing de SantanderCANLI (18:15 | | | Spain. Segunda Division)
+#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Huesca - Racing de SantanderCANLI (18:15 | | | Spain. Segunda Division)
 https://andro.6441255.xyz/checklist/androstreamlivech17961521.m3u8
-#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] P.A.O.K. B.C. - Panionios B.C.CANLI (17:00 | | | Greece. A1)
-https://andro.6441255.xyz/checklist/androstreamlivech17960970.m3u8
+#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Levante UD - Real SociedadCANLI (18:15 | | | Spain. La Liga)
+https://andro.6441255.xyz/checklist/androstreamlivech17961499.m3u8
+#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] FC Oss - De GraafschapCANLI (18:30 | | | Netherlands. Eerste Divis...)
+https://andro.6441255.xyz/checklist/androstreamlivech17961661.m3u8
+#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Vizela - Academico de ViseuCANLI (18:30 | | | Portugal. Segunda Liga)
+https://andro.6441255.xyz/checklist/androstreamlivech17961665.m3u8
+#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Heracles Almelo - HeerenveenCANLI (18:30 | | | Netherlands. Eredivisie)
+https://andro.6441255.xyz/checklist/androstreamlivech17961656.m3u8
+#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Feirense - Pacos de FerreiraCANLI (18:30 | | | Portugal. Segunda Liga)
+https://andro.6441255.xyz/checklist/androstreamlivech17961662.m3u8
+#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] FC Oss - De GraafschapCANLI (18:30 | | | Netherlands. Eerste Divis...)
+https://andro.6441255.xyz/checklist/androstreamlivech17961688.m3u8
+#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Feirense FC - F.C. Paços de FerreiraCANLI (18:30 | | | Portugal. Segunda Liga)
+https://andro.6441255.xyz/checklist/androstreamlivech17961692.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Mykonoy - AEK Athens B.C.CANLI (17:00 | | | Greece. A1)
 https://andro.6441255.xyz/checklist/androstreamlivech17960971.m3u8
-#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Fenerbahçe - Bursa Büyükşehir BelediyesiCANLI (17:00 | | | Turkey. Efe League)
-https://andro.6441255.xyz/checklist/androstreamlivech17960950.m3u8
+#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] P.A.O.K. B.C. - Panionios B.C.CANLI (17:00 | | | Greece. A1)
+https://andro.6441255.xyz/checklist/androstreamlivech17960970.m3u8
+#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] MBA-MAI II - CSKA Moskova-YuniorCANLI (18:00 | | | VTB United League. Gençler Birinciliği)
+https://andro.6441255.xyz/checklist/androstreamlivech17961512.m3u8
+#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Indykpol AZS Olsztyn - Asseco Resovia RzeszowCANLI (16:45 | | | Polonya Şampiyonası. Plus Lig)
+https://andro.6441255.xyz/checklist/androstreamlivech17960859.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Ziraat Bankası Ankara - İstanbul BB SKCANLI (17:00 | | | Turkey. Efe League)
 https://andro.6441255.xyz/checklist/androstreamlivech17960954.m3u8
+#EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Fenerbahçe - Bursa Büyükşehir BelediyesiCANLI (17:00 | | | Turkey. Efe League)
+https://andro.6441255.xyz/checklist/androstreamlivech17960950.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Gorkiy - Dynamo Ural UfaCANLI (17:55 | | | Rusya Şampiyonası. Süper Liga)
 https://andro.6441255.xyz/checklist/androstreamlivech17961334.m3u8
 #EXTINF:-1 group-title="GUNUN MACLARI", [CANLI] Belogorie - NOWACANLI (18:00 | | | Rusya Şampiyonası. Süper Liga)
